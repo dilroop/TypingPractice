@@ -1,6 +1,6 @@
 # typing_practice_dart
 
-App for doing typing pratice.
+App for created with intent to practice typing by characters you don't touch type.
 
 ## Getting Started
 
