@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
     } else {
       setState(() {
         possible = allChars;
-      });
+      }); 
     }
   }
 
