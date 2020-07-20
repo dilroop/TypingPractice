@@ -113,7 +113,7 @@ class _MyHomePageState extends State<MyHomePage> {
               children: <Widget>[
                 Expanded(
                   child: Text(
-                    'Corret: $correct',
+                    'Correct: $correct',
                     textAlign: TextAlign.start,
                     style: TextStyle(color: Colors.green),
                   ),
